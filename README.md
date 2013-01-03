@@ -1,4 +1,4 @@
-AutoCompleter (v1.1)
+AutoCompleter (v1.1.4)
 ====================
 
 Updated to Mootools 1.4.5 by Partikule - http://partikule.net
