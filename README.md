@@ -118,6 +118,7 @@ Changelog
 * Updated to Mootools 1.4.5 (without need of compat. mode)
 
 ### 1.1.3 (2012-05-16)
+* Done by Jo Carter : https://github.com/angelsk/mootools-autocompleter
 * Working with MooTools 1.4.5 (with compat. mode on)
 * Fixed: Problem with null strings
 * Added: spinner.gif for progress indicator to main styles
